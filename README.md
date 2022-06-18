@@ -28,6 +28,7 @@
 ##### Цепь
 ![Цепь](docs/Wiring%20Components.png "Цепь")
 ##### Схема .pdf
+
             Схема ↓
 Схема > ![Схема](docs/Wiring%20Components.pdf "Схема") < Схема <br/>
             Схема ↑
