@@ -31,6 +31,6 @@
 
             Схема ↓
 Схема > ![Схема](docs/Wiring%20Components.pdf "Схема") < Схема <br/>
-************Схема ↑
+**********Схема ↑
 ##### Как примерно будет выглядить пульт
 ![controller_v1.jpg](docs/controller_v1.jpg "controller_v1.jpg")
