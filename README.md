@@ -28,6 +28,8 @@
 ##### Цепь
 ![Цепь](docs/Wiring%20Components.png "Цепь")
 ##### Схема .pdf
-![Схема](docs/Wiring%20Components.pdf "Схема") < Схема
+    Схема ↓
+Схема > ![Схема](docs/Wiring%20Components.pdf "Схема") < Схема
+    Схема ↑
 ##### Как примерно будет выглядить пульт
 ![controller_v1.jpg](docs/controller_v1.jpg "controller_v1.jpg")
